@@ -64,4 +64,4 @@ FOR /L %%A IN (1,1,%number_of_tomee%) DO (
 
 
 rem echo %date_time%
-rem pause > nul 
+pause > nul 
